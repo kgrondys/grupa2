@@ -1,1 +1,2 @@
-"pierwsza wersja" 
+"pierwsza wersja"
+durga linijka
